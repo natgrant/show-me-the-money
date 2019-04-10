@@ -30,7 +30,6 @@ As a user:
   * I want to be able to state my yearly salary rather than hourly rate as an option on register
   * I want to be able to view all meetings that I am an attenee for, and I want information about my meetings to not be visible to all users of the app.
   * I want to create a group of regular attendees for my meeting group to make setting up my meeting easier.
-  * I want to be able to write notes or summaries for meetings upon saving them.
 
   ---
 
